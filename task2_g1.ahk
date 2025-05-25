@@ -14,7 +14,7 @@ F5:: {
 
 EEGWindowTitle := "Biopac Student Lab"
 SharedFolder   := "\\LAPTOP-PQA7946A\AAA\"
-TimerInterval  := 20000 ; in milliseconds
+TimerInterval  := 5000 ; in milliseconds
 FileExtension  := ".txt"
 
 ; Exit if the Biopac window does not exist
